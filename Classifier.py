@@ -929,7 +929,7 @@ def build_model_GradientBoosting(df):
 
 
 # Page Layout ( Streamlit web Interface )
-st.set_page_config(page_title="HyperParameter Optimization")
+st.set_page_config(page_title="Classification Model Builder")
 
 st.write("""
 # Classification Model Builder

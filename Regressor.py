@@ -1037,7 +1037,7 @@ def build_model_GradientBoosting(df):
 
 
 # Page Layout ( Streamlit web Interface )
-st.set_page_config(page_title="HyperParameter Optimization")
+st.set_page_config(page_title="Regression Model Builder")
 
 st.write("""
 # Regression Model Builder
